@@ -2481,6 +2481,9 @@
 .wrapper-3D2qGf:hover{
     background-color: rgba(120, 10, 0, 0.273)!important;
 }
+.bd-switch input:checked+.bd-switch-body{
+  --switch-color: transparent;
+}
 #app-mount .content-1o0f9g{
     background-color: rgba(163, 10, 0, 1) !important;
 }
