@@ -2472,7 +2472,15 @@
 .children-19S4PO:after {
     background: rgba(163, 10, 0, 0.5); !important;
 }
-
+.container-lRFx4q{
+    background-color: transparent;
+}
+.section-2gLsgF{
+    background-color: transparent;
+}
+.wrapper-3D2qGf:hover{
+    background-color: rgba(120, 10, 0, 0.273)!important;
+}
 #app-mount .content-1o0f9g{
     background-color: rgba(163, 10, 0, 1) !important;
 }
